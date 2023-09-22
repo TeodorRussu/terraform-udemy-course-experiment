@@ -1,1 +1,1 @@
-https://www.udemy.com/course/complete-terraform-course-beginner-to-advanced/
+repo for the udemy course: https://www.udemy.com/course/complete-terraform-course-beginner-to-advanced/
